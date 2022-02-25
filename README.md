@@ -1,2 +1,2 @@
 # CodingTest
-practice coding test for huge company
+practice to slove algorithm
