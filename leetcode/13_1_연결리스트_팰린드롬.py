@@ -13,7 +13,7 @@ class ListNode:
 def isPalindrom(self, head: ListNode) -> bool:
     q : List = []
 
-    if not head: 
+    if not head:  
         return True
     
     node = head
